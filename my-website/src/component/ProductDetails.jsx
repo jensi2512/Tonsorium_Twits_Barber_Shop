@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import productlist from '../assets/ProductList.png'
+import productlist from '../assets/productList.png'
 import '../Static/ProductDetails.css'
 import relatedproject from '../assets/RelatedProject1.png'
 import relatedproject2 from '../assets/RelatedProject2.png'

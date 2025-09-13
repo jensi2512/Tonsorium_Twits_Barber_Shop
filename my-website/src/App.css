@@ -1,0 +1,45 @@
+h1{
+    font-family: 'Italiana', serif;
+}
+
+.login{
+    position: relative;
+}
+
+.login > img {
+    height: 750px;
+    width: 100%;
+    position: relative;
+    filter: blur(8px);
+}
+
+.login-box{
+    height : 70%;
+    width : 30%;
+    position: absolute;
+    /* padding: 50px 50px 50px 50px; */
+    padding: 3%;
+    left: 10%;
+    top: 20%;
+    box-Shadow : 10px 10px 15px grey;
+}
+
+.register {
+    position: relative;
+}
+
+.register > img {
+    height: 850px;
+    width: 100%;
+    position: relative;
+    filter: blur(8px);
+}
+
+.register-box{
+    position: absolute;
+    /* padding: 50px 50px 50px 50px; */
+    padding: 3%;
+    left: 10%;
+    top: 12%;
+    box-Shadow : 10px 10px 15px grey;
+}

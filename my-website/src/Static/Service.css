@@ -1,0 +1,80 @@
+.service-1{
+    position: relative;
+}
+
+.service-1 > img {
+    height: 550px;
+    width: 100%;
+    position: relative;
+}
+
+.service-box-1{
+    color: white;
+    position: absolute;
+    right: 250px;
+    left: 750px;
+    top: 150px;
+}
+
+.service-box-1 > P {
+    text-Align: justify;
+    width: 100%;
+    margin-Top: 20px;
+}
+
+.service-box-1 > button{
+    color: white;
+    padding: 5px 10px 5px 10px; 
+    font-size: 20px;
+    background-color: #D4AF37;
+}
+
+.service-2 > .row {
+    border-Radius: 25px;
+    background-Color: #F7E7CE;
+    position: relative; 
+}
+
+.service-2 > .row > .img2{
+    position: absolute; 
+    top: 0;
+    left: 0;
+    height: 550px;
+    width: 45%;
+    border-Radius: 25px;
+    margin: 0;
+}
+
+.service-2 > .row > .col-6 > p{
+    font-Size: 25px;
+    text-Align: justify;
+    margin-Top: 30px;
+}
+
+/* .service-3 > .card > .card-body > button{
+    margin-Top: 20px;
+    font-Size: 20px;
+    justify-Items: center;
+    background-Color: rgb(0, 0, 0);
+    background-color: black;
+    color: white;
+} */
+
+.pricebtn{
+    margin-Top: 20px;
+    font-Size: 20px;
+    justify-Items: center;
+    /* background-Color: rgb(0, 0, 0); */
+    background-color: black;
+    color: white;
+}
+
+.service-4 > p{
+    font-Size: 20px; 
+    text-Align: center;
+}
+
+.service-4 > h1{
+    font-Size: 50px; 
+    text-Align: center;
+}

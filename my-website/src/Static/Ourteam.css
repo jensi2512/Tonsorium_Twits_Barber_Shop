@@ -1,0 +1,46 @@
+.comment-img {
+
+    height: 110px;
+    width: 110px;
+    border-radius: 110px;
+    border: 1px solid;
+}
+
+h1{
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'Italiana', serif;
+    font-size: 3.5rem;
+  }
+
+.team-card{
+    border-radius: 25px;
+    border: 1px solid;
+    box-shadow: 4px 5px rgb(238, 238, 238);
+}
+
+.team-card-img-top{
+    position: relative;
+    border-radius: 25px;
+}
+
+.social{
+    position: absolute;
+    bottom: 100px;
+    right: 60px;
+}
+
+.social-box{
+    background-color: white;
+    border: 1px solid;
+    height: 33px;
+    width: 33px;
+}
+
+.social-box:hover{
+    background-color: red;
+}
+
+.bi:hover{
+    color: white;
+    cursor: pointer;
+}

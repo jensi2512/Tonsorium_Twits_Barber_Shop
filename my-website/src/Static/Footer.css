@@ -1,0 +1,68 @@
+
+.footer{
+    padding: 50px;
+    text-align: center;
+}
+
+.footer > h1{
+    font-size: 50px;
+}
+.footer > p{
+    font-size: 20px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+.footer-1 > h1{
+    margin-Top: 30px;
+    font-Size: 50px;
+}
+.footer-1 > p{
+    width: 80%;
+    text-Align: justify;
+    font-Size: 18px;
+    margin-Top: 30px;
+}
+.footer-1 > img{
+   height: 250px;
+   width: 540px; 
+   margin-Top: 30px; 
+}
+
+/* .btn > button{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding: 0 15px;
+} */
+
+.subscribebtn{
+    /* background-color: black; */
+    color: white;
+    border-radius: 20px;
+    padding: 0 15px;
+    height: 35px;
+}
+
+.footer-2{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.footer-2{
+    text-align: center;
+}
+
+/* .subscribebtn :hover{
+    background-color: red;
+} */
+
+
+.footer-icon > .bi:hover{
+    /* background-color: rgb(0, 0, 0); */
+    color: rgb(255, 0, 0);
+}

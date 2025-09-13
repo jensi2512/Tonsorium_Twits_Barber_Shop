@@ -1,0 +1,117 @@
+/* .About {
+    background-color: #333333;
+} */
+
+.about-1 {
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+    padding-bottom: 50px;
+}
+
+.about-1>h1 {
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.about-1>p {
+    margin-top: 20px;
+    width: 400px;
+    width: 40%;
+    margin: auto;
+    text-align: justify;
+}
+
+.about-1>button {
+    padding: 10px 10px;
+    background-color: #D4AF37;
+    margin-top: 20px;
+}
+
+
+.about-2>.row>.col-6>h1 {
+    width: 80%;
+    margin: auto;
+    font-size: 60px;
+}
+
+.about-2>.row>.col-6>p {
+    width: 80%;
+    margin: auto;
+    text-Align: justify;
+    font-Size: 20px;
+    margin-Top: 10px;
+}
+
+.about-2>.row>.col-6>img {
+    height: 700px;
+    width: 744px;
+}
+
+
+
+.about-3>.row>.col-6>img {
+    height: 420px;
+    border-radius: 25px;
+}
+
+.about-3>.row>.col-6>h1 {
+    width: 80%;
+    margin: auto;
+    font-size: 60px;
+}
+
+.about-3>.row>.col-6>p {
+    width: 80%;
+    margin: auto;
+    text-Align: justify;
+    font-Size: 20px;
+    margin-Top: 10px;
+}
+
+.about-4>.row>.col-6>h1 {
+    width: 80%;
+    margin: auto;
+    font-size: 60px;
+}
+
+.about-4>.row>.col-6>img {
+    height: 500px;
+    width: 600px;
+    border-Radius: 25px;
+}
+
+.about-4>.row>.col-6>p {
+    width: 80%;
+    margin: auto;
+    text-Align: justify;
+    font-Size: 20px;
+    margin-Top: 10px;
+}
+
+.about-5>h {
+    width: 80%;
+    margin: auto;
+    font-Size: 60px;
+}
+
+.about-5>p {
+    width: 70%;
+    margin: auto;
+    font-size: 20px;
+    margin-Top: 15px;
+}
+
+.about-5>.row>col-7>h2,
+p {
+    margin-top: 5px;
+}
+
+.about-box-5 {
+    height: 30px;
+    padding-right: 10px;
+    width: 500px;
+    background-color: #292929;
+    text-align: end;
+    color: white;
+}

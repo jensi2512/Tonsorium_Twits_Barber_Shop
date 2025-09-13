@@ -1,0 +1,48 @@
+.select-membership-title {
+    font-size: 40px;
+}
+
+.select-membership-offer {
+    width: 24%;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.select-membership-offer:hover {
+    transform: translateY(-5px);
+    border-radius: 10px;
+}
+
+.select-membership-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.select-membership-list-text {
+    font-size: 18px;
+}
+
+.select-membership-list-price {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+
+.membership-input-text-title {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.membership-input-text-total {
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+}
+
+.membershipDetails-btn {
+    width: fit-content;
+    height: fit-content;
+    background-color: #e52026;
+    color: white;
+}

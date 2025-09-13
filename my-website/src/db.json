@@ -1,0 +1,18 @@
+{
+  "cart": [
+    {
+      "id": "c3c8",
+      "img": "/src/assets/product1.jpg",
+      "price": 85,
+      "name": "Moisturizers",
+      "email": "jensipatel19@gnu.ac.in"
+    },
+    {
+      "id": "3b35",
+      "img": "/src/assets/product2.jpg",
+      "price": 55,
+      "name": "Cream",
+      "email": "jensipatel19@gnu.ac.in"
+    }
+  ]
+}  

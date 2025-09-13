@@ -1,0 +1,55 @@
+.payment-text-back {
+    text-decoration: none;
+    color: white;
+}
+
+.payment-title {
+    font-size: 20px;
+}
+
+.paymentlogo > p{
+    color: white;
+}
+.card-no {
+    position: relative;
+}
+
+
+.payment-icon {
+    position: absolute;
+    top: 45px;
+    right: 20px;
+    color: black;
+}
+
+.payment-btn {
+    width: 100%;
+    background-color: #D4AF37;
+    color: white;
+}
+
+/*payment-page css end */
+
+/*payment-page css end */
+.paymentSuccessful-title {
+    font-size: 35px;
+}
+
+.paymentSuccessful-box {
+    height: 200px;
+    width: 200px;
+}
+
+.paymentSuccessful-img {
+    height: 100%;
+    width: 100%;
+}
+
+.paymentSuccessful-text {
+    font-size: 20px;
+}
+
+.paymentright{
+    border: black 1px solid;
+    background-color: black;
+}
